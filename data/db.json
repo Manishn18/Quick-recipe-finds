@@ -1,0 +1,229 @@
+{
+  "recipes": [
+    {
+      "id": "4",
+      "title": "Paneer Butter Masala",
+      "ingredients": [
+        "200g Paneer",
+        "2 Tomatoes",
+        "1 Onion",
+        "1 cup Cashews",
+        "1 cup Cream",
+        "Spices",
+        "Butter"
+      ],
+      "method": "1. Sauté onions and tomatoes in butter. 2. Add cashews and spices, cook until fragrant. 3. Blend into a smooth paste. 4. Cook paneer cubes in the paste, add cream. 5. Simmer until the curry thickens. 6. Serve hot with naan or rice.",
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Chicken Biryani",
+      "ingredients": [
+        "500g Chicken",
+        "2 cups Basmati Rice",
+        "1 Onion",
+        "1 cup Yogurt",
+        "Ginger-Garlic Paste",
+        "Biryani Masala",
+        "Saffron, Mint, Coriander Leaves",
+        "Ghee"
+      ],
+      "method": "1. Marinate chicken in yogurt and spices. 2. Cook basmati rice separately. 3. Layer rice and chicken in a pot. 4. Garnish with saffron, mint, and coriander leaves. 5. Cook on low heat until the flavors meld. 6. Serve with raita.",
+      "cookingTime": "60 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Masoor Dal",
+      "ingredients": [
+        "1 cup Masoor Dal",
+        "1 Onion",
+        "2 Tomatoes",
+        "Garlic, Ginger",
+        "Turmeric, Cumin, Coriander Powder",
+        "Mustard Seeds, Asafoetida",
+        "Ghee"
+      ],
+      "method": "1. Cook masoor dal until tender. 2. Sauté onions, garlic, and ginger in ghee. 3. Add tomatoes and spices. 4. Combine with cooked dal. 5. Temper with mustard seeds and asafoetida. 6. Serve with rice or roti.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "7",
+      "title": "Aloo Gobi",
+      "ingredients": [
+        "3 Potatoes",
+        "1 Cauliflower",
+        "1 Onion",
+        "Tomatoes",
+        "Cumin, Coriander, Turmeric Powder",
+        "Ginger, Green Chilies",
+        "Fresh Coriander"
+      ],
+      "method": "1. Sauté onions, ginger, and green chilies. 2. Add tomatoes and spices. 3. Stir in potatoes and cauliflower. 4. Cook until vegetables are tender. 5. Garnish with fresh coriander. 6. Serve with roti or rice.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "8",
+      "title": "Chana Masala",
+      "ingredients": [
+        "2 cups Chickpeas",
+        "1 Onion",
+        "2 Tomatoes",
+        "Ginger, Garlic",
+        "Chana Masala, Turmeric",
+        "Green Chilies"
+      ],
+      "method": "1. Sauté onions, ginger, and garlic. 2. Add tomatoes and spices. 3. Stir in boiled chickpeas. 4. Simmer until flavors meld. 5. Garnish with green chilies and coriander leaves. 6. Serve with rice or naan.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "9",
+      "title": "Vegetable Biryani",
+      "ingredients": [
+        "2 cups Basmati Rice",
+        "Assorted Vegetables",
+        "Onions",
+        "Yogurt",
+        "Biryani Masala",
+        "Saffron, Mint, Coriander Leaves",
+        "Ghee"
+      ],
+      "method": "1. Cook basmati rice and vegetables separately. 2. Sauté onions and mix with yogurt and biryani masala. 3. Layer rice and vegetables in a pot. 4. Garnish with saffron, mint, and coriander leaves. 5. Cook on low heat until the flavors meld. 6. Serve with raita.",
+      "cookingTime": "50 minutes"
+    },
+    {
+      "id": "10",
+      "title": "Palak Paneer",
+      "ingredients": [
+        "200g Paneer",
+        "2 cups Spinach",
+        "1 Onion",
+        "1 Tomato",
+        "Ginger, Garlic",
+        "Spices (Garam Masala, Cumin, Coriander Powder)",
+        "Cream"
+      ],
+      "method": "1. Sauté onions, ginger, and garlic. 2. Add tomatoes and spices. 3. Add spinach and cook until wilted. 4. Blend into a smooth paste. 5. Cook paneer in the paste, add cream. 6. Serve hot with naan or rice.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "11",
+      "title": "Butter Chicken",
+      "ingredients": [
+        "500g Chicken",
+        "1 Onion",
+        "2 Tomatoes",
+        "Cashews",
+        "Butter, Cream",
+        "Ginger, Garlic",
+        "Spices (Garam Masala, Cumin, Coriander Powder)"
+      ],
+      "method": "1. Sauté onions, ginger, and garlic in butter. 2. Add tomatoes, cashews, and spices. 3. Blend into a smooth paste. 4. Cook chicken in the paste, add cream. 5. Simmer until the curry thickens. 6. Serve with naan or rice.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "12",
+      "title": "Rajma Chawal",
+      "ingredients": [
+        "2 cups Kidney Beans (Rajma)",
+        "1 Onion",
+        "2 Tomatoes",
+        "Ginger, Garlic",
+        "Cumin, Coriander Powder",
+        "Garam Masala",
+        "Coriander Leaves"
+      ],
+      "method": "1. Soak and boil kidney beans until tender. 2. Sauté onions, ginger, and garlic. 3. Add tomatoes and spices. 4. Combine with cooked kidney beans. 5. Simmer until flavors meld. 6. Garnish with coriander leaves and serve with rice.",
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "13",
+      "title": "Mutton Rogan Josh",
+      "ingredients": [
+        "500g Mutton",
+        "1 Onion",
+        "2 Tomatoes",
+        "Yogurt",
+        "Ginger, Garlic",
+        "Cinnamon, Cardamom, Cloves",
+        "Kashmiri Red Chili Powder"
+      ],
+      "method": "1. Sauté onions, ginger, and garlic. 2. Add tomatoes and spices. 3. Add yogurt and cook until oil separates. 4. Cook mutton until tender. 5. Garnish with fresh coriander. 6. Serve with naan or rice.",
+      "cookingTime": "60 minutes"
+    },
+    {
+      "id": "14",
+      "title": "Vegetable Korma",
+      "ingredients": [
+        "Assorted Vegetables",
+        "1 Onion",
+        "2 Tomatoes",
+        "Cashews",
+        "Coconut Milk",
+        "Ginger, Garlic",
+        "Spices (Garam Masala, Cumin, Coriander Powder)"
+      ],
+      "method": "1. Sauté onions, ginger, and garlic. 2. Add tomatoes and cashews. 3. Add assorted vegetables and spices. 4. Cook until vegetables are tender. 5. Stir in coconut milk. 6. Serve hot with rice or roti.",
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "693b",
+      "title": "Aloo Gobi",
+      "ingredients": [
+        "Potatoes",
+        "Cauliflower",
+        "Onions",
+        "Tomatoes",
+        "Spices (Turmeric, Cumin, Coriander)",
+        "Ginger-Garlic Paste"
+      ],
+      "method": "1. Heat oil in a pan and add cumin seeds. 2. Add chopped onions and sauté until golden brown. 3. Add ginger-garlic paste and fry for a minute. 4. Add tomatoes and spices, and cook until the tomatoes soften. 5. Add potatoes and cauliflower, mix well, and cover to cook on medium heat. 6. Stir occasionally until the vegetables are cooked through. 7. Garnish with coriander leaves and serve hot.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "05dd",
+      "title": "Maggie with Chicken",
+      "ingredients": [
+        "Maggie noodles",
+        "Chicken (boneless)",
+        "Onions",
+        "Garlic",
+        "Green Chilies",
+        "Soy Sauce",
+        "Vegetables (optional)"
+      ],
+      "method": "1. Boil the maggie noodles as per the instructions and set aside. 2. In a pan, sauté onions, garlic, and green chilies until golden. 3. Add chicken pieces and cook until browned. 4. Add soy sauce and vegetables (optional) and cook for a few minutes. 5. Add the cooked noodles to the pan, mix well with the chicken and vegetables. 6. Cook for another 2-3 minutes and serve hot.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "6d8f",
+      "title": "Vegetable Stir Fry",
+      "ingredients": [
+        "Carrots",
+        "Bell Peppers",
+        "Broccoli",
+        "Onions",
+        "Soy Sauce",
+        "Garlic",
+        "Olive Oil"
+      ],
+      "method": "1. Heat olive oil in a pan and sauté garlic until fragrant. 2. Add onions and cook until translucent. 3. Add chopped carrots, bell peppers, and broccoli, and stir fry on high heat. 4. Add soy sauce and cook for another 2-3 minutes, stirring occasionally. 5. Serve hot with steamed rice or noodles.",
+      "cookingTime": "15 minutes"
+    },
+    {
+      "id": "bb61",
+      "title": "Chicken Angaara",
+      "ingredients": [
+        "Chicken",
+        "Smoked Spices",
+        "Yogurt",
+        "Ginger-Garlic Paste",
+        "Lemon Juice",
+        "Onions",
+        "Tomatoes",
+        "Fresh Coriander"
+      ],
+      "method": "1. Marinate chicken in yogurt, ginger-garlic paste, lemon juice, and Angaara spice mix for at least 1 hour. 2. In a pan, heat oil and sauté onions until golden brown. 3. Add tomatoes and cook until soft. 4. Add marinated chicken to the pan and cook on medium heat. 5. Cover and cook until the chicken is tender and the sauce thickens. 6. Garnish with fresh coriander and serve hot with naan or rice.",
+      "cookingTime": "40 minutes"
+    }    
+  ]
+}
